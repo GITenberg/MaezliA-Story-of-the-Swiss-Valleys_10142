@@ -1,0 +1,37 @@
+_repo: MaezliA-Story-of-the-Swiss-Valleys_10142
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Stork, Elisabeth P. (Elisabeth Pausinger)
+    alias: Stork, Elizabeth P. (Elizabeth Pausinger)
+    gutenberg_agent_id: '5052'
+    url: http://www.gutenberg.org/2009/agents/5052
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Switzerland -- Juvenile fiction'
+- GITenberg
+title: 'Maezli
+
+  A Story of the Swiss Valleys'
+url: http://www.gutenberg.org/ebooks/10142
